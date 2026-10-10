@@ -1,0 +1,25 @@
+{
+  "captured_from": "https://lee-study154.github.io/porsche-gt3-showroom/index-cdn.html",
+  "capture_date": "2026-10-11",
+  "website_version": "R09",
+  "asset_identity": "2024 Porsche 992 GT3 R",
+  "project_display_name": "GT3 RS Showroom",
+  "viewport": [
+    3840,
+    2160
+  ],
+  "render_buffer": [
+    5760,
+    3240
+  ],
+  "processing": "Native-pixel crops and typography composition only; no upscaling, repainting or model changes.",
+  "files": {
+    "hero.png": "2016e2e958894a3005acfe326426f5cde52121df6d43e947320354c98e6904b7",
+    "aero-4k.jpg": "50249ffd0ef6a2350145bc5f9d3539929525746c8d59ae59b09d3614fee16c8c",
+    "reflection-detail.png": "b246910d324e5a8c1a8810f8ee1525a6ec4f707ce571f6c1553f96f4d716950c",
+    "tyres-4k.jpg": "18906b139254d754b872834319e178922121b4a1024c17810b4f917572af99a2",
+    "aero-detail.png": "ffd553a0633ac31f6aab5aad94ba2e99731a3c4ca277dec8c4ef49db0d6e2b7a",
+    "showroom-4k.jpg": "c74355d1b7b388c5c02eed372f93385613c70de2f5e44ae2dcf32dbf489dff0c",
+    "wheel-detail.png": "b2a13cdca7365a8593a8a4c21324ecf9b4a80d45bcec597a8933147b16f3d7bb"
+  }
+}

@@ -72,13 +72,11 @@ A WebGL-capable browser is required. The initial model transfer is approximately
 
 </details>
 
-## Model identity & credit
+## 3D model asset
 
-**GT3 RS** is the project display name. The current R09 website and these screenshots use a **2024 Porsche 992 GT3 R** asset. GT3 R and GT3 RS are different models; this presentation does not represent an RS model conversion.
+**License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — not CC0.**
 
-[2024 Porsche 992 GT3 R](https://sketchfab.com/3d-models/2024-porsche-992-gt3-r-b76c9b2ae2d548c3869426eac4ab8a19) by **[Dave Love SketchFab (@Tyler_Dave)](https://sketchfab.com/Tyler_Dave)**, listed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
-
-The showroom adjusts material response, lighting, camera choreography and wheel motion at runtime. The screenshots show that adapted presentation. This model attribution does not assign the same license to every file in this repository. Independent showcase project; not an official Porsche website.
+<sub>[2024 Porsche 992 GT3 R](https://sketchfab.com/3d-models/2024-porsche-992-gt3-r-b76c9b2ae2d548c3869426eac4ab8a19) · Dave Love SketchFab (@Tyler_Dave). Material response and wheel motion adapted for the showroom.</sub>
 
 ---
 

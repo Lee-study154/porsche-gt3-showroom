@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://lee-study154.github.io/porsche-gt3-showroom/">
-    <img src="assets/readme/hero.png" width="100%" alt="GT3 RS Showroom — gold bodywork, carbon aero and a close-up of the front wheel, captured from the live 3D showroom">
+    <img src="assets/readme/hero.png" width="100%" alt="GT3 R Showroom — gold bodywork, carbon aero and a close-up of the front wheel, captured from the live 3D showroom">
   </a>
 </p>
 
-<h1 align="center">Porsche GT3 RS Showroom</h1>
+<h1 align="center">Porsche GT3 R Showroom</h1>
 <p align="center">Explore the details. Hold to race. Release to return.</p>
 <p align="center">
   <a href="https://lee-study154.github.io/porsche-gt3-showroom/"><strong>ENTER THE SHOWROOM ↗</strong></a>
@@ -14,7 +14,9 @@
   <a href="#take-control">Controls</a>
 </p>
 
-**GT3 RS Showroom** is an interactive Porsche experience built with Three.js. Gold-and-black livery, a reflective studio floor, close-up camera presets and a hold-to-race sequence — all rendered in your browser.
+**GT3 R Showroom** is an interactive Porsche experience built with Three.js. Gold-and-black livery, a reflective studio floor, close-up camera presets and a hold-to-race sequence — all rendered in your browser.
+
+The gold-and-black #91 livery echoes Manthey EMA's Porsche 911 GT3 R LMGT3 from the 2024 Bapco Energies 8 Hours of Bahrain (FIA WEC).
 
 ## Up close
 
